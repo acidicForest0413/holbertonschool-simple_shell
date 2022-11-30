@@ -174,3 +174,7 @@ Task 6
 Simple shell 0.4 +
 
 Implement the env built-in, that prints the current environment
+
+Authors:
+Victoria Cook <5540@holbertonstudents.com>
+Tammy Junk <tamtam929@gmail.com>
