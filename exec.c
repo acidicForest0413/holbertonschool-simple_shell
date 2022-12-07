@@ -90,7 +90,8 @@ int exec(char *cname, char **opts)
 			perror("fork failed");
 			return (-1);
 		case 0:
-			execve(cname, opts, environ);
+			execve(cname, opts, envireon);
+			__attribute__ ((fallthrough));
 		default:
 			do {
 				waitpid(child, &status, WUNTRACED);

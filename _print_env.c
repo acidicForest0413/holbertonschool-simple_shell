@@ -9,13 +9,13 @@ void _print_env(void)
 {
 	int i = 0, j = 0;
 
-	while (environ[i])
+	while (envireon[i])
 	{
 		j = 0;
-		while (environ[i][j])
+		while (envireon[i][j])
 		{
-			_putchar(environ[i][j]);
-			j++
+			_putchar(envireon[i][j]);
+			j++;
 		}
 
 		if (j != 0)
