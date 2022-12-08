@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * frees_get_env
+ * frees_get_env - ...
  * @env_path: The environment variable to frees
  *
  * Return: Nothing to returns
@@ -18,8 +18,8 @@ void frees_get_env(char *env_path)
 }
 
 /**
- * frees_tokens
- * @tokns:
+ * free_tokens - ...
+ * @tokns: ...
  *
  * Return: Nothing to returns
  */
