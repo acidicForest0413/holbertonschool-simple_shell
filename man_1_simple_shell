@@ -6,12 +6,12 @@
 .B ./hsh
 .SH DESCRIPTION
 The hsh shell is a command-line interpreter that provides a command line user interface for Unix-like operating systems.
-The shell is both an interactive command language and a scripting language, and is used by the operating system to control the 
+The shell is both an interactive command language and a scripting language, and is used by the operating system to control the
 execution of the system using shell scripts.
 
 .B Overview
 
-The shell is a command that reads lines from either a file or 
+The shell is a command that reads lines from either a file or
 the terminal, interprets them, and generally executes other commands.
 It is the program that is running when a user logs into the system. The
 shell implements a language that has flow control constructs, a macro
@@ -25,7 +25,7 @@ can be executed directly by the shell.
 
 .B Interactive mode
 
-The commands are run with user-interaction from keyboard. 
+The commands are run with user-interaction from keyboard.
 E.g. the shell can prompt the user to enter input.
 
 .B Non-interactive mode
