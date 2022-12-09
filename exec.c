@@ -90,7 +90,7 @@ int exec(char *cname, char **opts)
 			perror("fork failed");
 			return (-1);
 		case 0:
-			execve(cname, opts, envireon);
+			execve(cname, opts, environ);
 			__attribute__ ((fallthrough));
 		default:
 			do {
