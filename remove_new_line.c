@@ -8,7 +8,7 @@
  */
 char *remove_new_line(char *str)
 {
-	int 1 = 0;
+	int i = 0;
 
 	while (str[i])
 	{
