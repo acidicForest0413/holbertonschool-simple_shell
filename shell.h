@@ -10,7 +10,7 @@
 #include <signal.h>
 #include <stdio.h>
 
-extern char **envireon;
+extern char **environ;
 
 char *_strcat(char *dest, char *src);
 int _strlen(const char *s);
