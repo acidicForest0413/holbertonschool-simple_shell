@@ -23,7 +23,8 @@ The shell is a command-line interpreter or shell that provides a command line us
 | [signal_handler.c](https://github.com/acidicForest0413/holbertonschool-simple_shell/blob/master/signal_handler.c) | 	handle the Ctrl + C. |
 | [tokenize.c](https://github.com/acidicForest0413/holbertonschool-simple_shell/blob/master/tokenize.c) | function to extract tokens from string. |
 
-##Authors
+
+#Authors
 
 Victoria Cook <5540@holbertonstudents.com>
 Tammy Junk <tamtam929@gmail.com>
