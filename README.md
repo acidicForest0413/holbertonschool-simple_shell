@@ -25,5 +25,5 @@ The shell is a command-line interpreter or shell that provides a command line us
 
 ##Authors
 
-[Victoria Cook](5540@holbertonstudents.com)
-[Tammy Junk](tamtam929@gmail.com)
+Victoria Cook <5540@holbertonstudents.com>
+Tammy Junk <tamtam929@gmail.com>
