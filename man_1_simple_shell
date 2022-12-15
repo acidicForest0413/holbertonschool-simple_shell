@@ -1,4 +1,4 @@
-.TH HSH 1 "27 Nov 2019" "0.1" "HSH"
+.TH HSH 1 "10 Dec. 2022" "0.1" "HSH"
 .SH NAME
 .B hsh
 - command interpreter (simple shell)
